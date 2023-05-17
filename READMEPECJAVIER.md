@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Google lens 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Google lens]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://www.lowi.es/blog/wp-content/uploads/2018/05/Que-es-Google-Lens.jpg)) 
 
 
 ### Planteamiento
