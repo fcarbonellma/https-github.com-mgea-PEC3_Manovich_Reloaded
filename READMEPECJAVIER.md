@@ -11,7 +11,9 @@ Autor: Francisco Javier Carbonell Marti
 ### Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En la PEC 3, nos adentraremos en el fascinante mundo de Lev Manovich, un reconocido teórico de los medios y crítico cultural, cuyo trabajo nos invita a reflexionar sobre el impacto de la tecnología y los medios en la sociedad actual. Utilizando "las gafas de Manovich", exploraremos cómo sus ideas y conceptos pueden ayudarnos a vislumbrar el futuro de los medios y la cultura.
+
+ Investigaremos las narrativas de base de datos, la visualización de datos, la cultura de la interfaz y la memoria digital, y reflexionaremos sobre su influencia en nuestra sociedad. A través de este análisis, buscamos comprender cómo la tecnología y los medios continúan transformando y moldeando nuestra experiencia humana.
 
 
 ### Re-descubriendo la hibridacion: # Rain Alarm 
