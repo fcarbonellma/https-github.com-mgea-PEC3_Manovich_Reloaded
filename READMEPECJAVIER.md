@@ -42,11 +42,11 @@ Rain Alarm es una herramienta útil y efectiva para mostrar la información de l
 
 ## Re-descubriendo la hibridacion: # Google lens 
 
-Google Lens es una poderosa herramienta de reconocimiento visual desarrollada por Google. Utiliza la tecnología de visión por computadora y el aprendizaje automático para analizar y comprender el contenido de las imágenes capturadas con la cámara de un dispositivo móvil o cargadas desde la galería. En este informe, analizaremos cómo Google Lens lleva a cabo este proceso de análisis de imágenes y cómo proporciona información relevante y útil a los usuarios.
+Google Lens es una poderosa herramienta de reconocimiento visual desarrollada por Google. Utiliza la tecnología de visión por ordenador y el aprendizaje automático para analizar y comprender el contenido de las imágenes capturadas con la cámara de un dispositivo móvil o cargadas desde la galería. En este informe, analizaremos cómo Google Lens lleva a cabo este proceso de análisis de imágenes y cómo proporciona información relevante y útil a los usuarios.
 
 ### Procesamiento de imágenes:
 
-Cuando un usuario utiliza Google Lens para analizar una imagen, la aplicación lleva a cabo un procesamiento sofisticado de la imagen utilizando algoritmos de visión por computadora. Estos algoritmos detectan y reconocen objetos, texto, códigos QR, códigos de barras, lugares y otras características visuales presentes en la imagen.
+Cuando un usuario utiliza Google Lens para analizar una imagen, la aplicación lleva a cabo un procesamiento sofisticado de la imagen utilizando algoritmos de visión por ordenador. Estos algoritmos detectan y reconocen objetos, texto, códigos QR, códigos de barras, lugares y otras características visuales presentes en la imagen.
 
 ### Detección y reconocimiento de objetos:
 
@@ -62,7 +62,7 @@ Una vez que Google Lens ha analizado la imagen y reconocido los objetos, texto u
 
 ### Conclusión:
 
-Google Lens utiliza tecnologías avanzadas de visión por computadora y aprendizaje automático para analizar imágenes y brindar información relevante y útil a los usuarios. Su capacidad para detectar y reconocer objetos, extraer texto y proporcionar detalles adicionales mejora la experiencia de los usuarios al interactuar con el mundo visual que los rodea. Google Lens ofrece una forma innovadora y conveniente de obtener información instantánea a partir de imágenes, abriendo nuevas posibilidades en áreas como el comercio electrónico, el turismo, la educación y la investigación.
+Google Lens utiliza tecnologías avanzadas de visión por ordenador y aprendizaje automático para analizar imágenes y brindar información relevante y útil a los usuarios. Su capacidad para detectar y reconocer objetos, extraer texto y proporcionar detalles adicionales mejora la experiencia de los usuarios al interactuar con el mundo visual que los rodea. Google Lens ofrece una forma innovadora y conveniente de obtener información instantánea a partir de imágenes, abriendo nuevas posibilidades en áreas como el comercio electrónico, el turismo, la educación y la investigación.
 
 ## Referencias y Bibliografía
 
